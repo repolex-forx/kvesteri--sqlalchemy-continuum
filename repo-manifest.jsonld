@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/kvesteri/sqlalchemy-continuum/commit/3d3c86bde8fcca29b7232f196ce7525f827c051d",
       "git:hexsha": "3d3c86bde8fcca29b7232f196ce7525f827c051d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T08:55:08.099511+00:00"
     },
     {
       "@id": "https://repolex.ai/r/kvesteri/sqlalchemy-continuum/commit/ef924611dd83842b1cdef0e7763ccbe00c726755",
