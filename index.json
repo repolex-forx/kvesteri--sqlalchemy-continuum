@@ -1,0 +1,11 @@
+{
+  "org": "kvesteri",
+  "repo": "sqlalchemy-continuum",
+  "versions": [
+    {
+      "commit": "3d3c86bde8fcca29b7232f196ce7525f827c051d",
+      "tag": "",
+      "parsed_at": "2026-10-18T08:55:08.100146+00:00"
+    }
+  ]
+}
